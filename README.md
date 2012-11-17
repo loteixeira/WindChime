@@ -4,7 +4,7 @@ The application uses three OpenGL extensions to improve graphics quality:
 * Texture anisotropic filter
 * Shaders
 * Multisample
-<br>
+
 The application may be configured through WindChime.cfg file, where it's possible to choose the window resolution, color depth, fullscreen or windowed, etc.
 
 # running
